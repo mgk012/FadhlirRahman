@@ -23,7 +23,7 @@ nama = input("Siapa nama anda? ")
 
 # 3. Else Statement
 
-if nama=="zaldy":
+if nama=="fadli":
 	print("hai fadhlir, akses diterima!!!")
 else:
 	print("kamu bukan fadhlir, akses ditolak! :(")
